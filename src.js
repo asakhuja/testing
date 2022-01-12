@@ -393,4 +393,4 @@ def clean_up(output):
         shutil.rmtree(output["issues_path"])
 
 if __name__ == "__main__":
-    main()
+    main()1
